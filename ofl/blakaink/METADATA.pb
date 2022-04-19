@@ -1,7 +1,7 @@
 name: "Blaka Ink"
 designer: "Mohamed Gaber"
 license: "OFL"
-category: "SERIF"
+category: "DISPLAY"
 date_added: "2022-02-26"
 fonts {
   name: "Blaka Ink"
@@ -14,4 +14,9 @@ fonts {
 }
 subsets: "arabic"
 subsets: "latin"
+subsets: "latin-ext"
 subsets: "menu"
+source {
+  repository_url: "https://github.com/Gue3bara/Blaka"
+  commit: "8f2ddd99ac2699339a75f7fa76c7e5c7f7a59f8b"
+}
